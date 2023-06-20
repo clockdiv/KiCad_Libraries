@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MAX485-Shield
-D DMX Shield with Max485 IC
-K DMX Max 485
-$ENDCMP
-#
-#End Doc Library
